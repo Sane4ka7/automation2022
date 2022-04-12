@@ -1,4 +1,3 @@
 my_string="TestAutomation"
-my_string[-10:]
-second_word="Automation"
+second_word=my_string[-10:]
 print(second_word)

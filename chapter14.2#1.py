@@ -1,4 +1,3 @@
 my_string="TestAutomation"
-my_string[0:4]
-word_test="Test"
+word_test=my_string[0:4]
 print(word_test)
